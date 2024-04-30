@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""all"""
+"""
+    all
+"""
 
 
 def list_all(mongo_collection) -> list:
